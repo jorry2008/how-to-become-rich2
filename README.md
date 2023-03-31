@@ -11,19 +11,11 @@ Add the following to `pom.xml`:
 
     ...
 
-    <repositories>
-        <repository>
-            <id>github-rich-repo</id>
-            <name>The Rich Repository on Github</name>
-            <url>https://jorry2008.github.io/how-to-become-rich/maven-repo/</url>
-        </repository>
-    </repositories>
-
     <dependencies>
         <dependency>
             <groupId>com.diffcoder</groupId>
-            <artifactId>how-to-become-rich</artifactId>
-            <version>1.1-SNAPSHOT</version>
+            <artifactId>how-to-become-rich2</artifactId>
+            <version>1.3</version>
         </dependency>
     </dependencies>
 
