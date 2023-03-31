@@ -1,4 +1,4 @@
-# How to Become Rich
+# How to Become Rich2
 
 This is a tutorial about how to publish a Maven artifact to GitHub:
 
